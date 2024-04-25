@@ -1,0 +1,25 @@
+
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color:pink;
+}
+.navbar-brand {
+    color:white
+}
+.navbar-brand:hover {
+    color:white
+}
+ul {
+    font-size: 20px;
+}
+/* Source for carousel manipulation https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel */
+
+.jumbotron {
+    min-width: 585px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px 10px 10px;
+  }
